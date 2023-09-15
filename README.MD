@@ -1,5 +1,4 @@
-# Tetris-Basic
-This is a simple no nonsense version of Tetris that has no styling - made for the support of my Udemy Video.  
+# Tetris-Game
 
 An HTML5 Tetris Game
 
